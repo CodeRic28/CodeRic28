@@ -10,7 +10,7 @@ I am a Computer Science major pursuing Master's in Computer Applications with a 
 <a href="https://github.com/CodeRic28/hidden_trends_in_video_games"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodeRic28&repo=hidden_trends_in_video_games&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/CodeRic28/discord_bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodeRic28&repo=discord_bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
----
+<hr>
 
 ### Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -25,7 +25,7 @@ I am a Computer Science major pursuing Master's in Computer Applications with a 
 <img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
+<br>
 #
 
 
