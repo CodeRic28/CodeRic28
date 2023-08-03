@@ -5,8 +5,10 @@ I am a Computer Science major pursuing Master's in Computer Applications with a 
 
 ## My Projects
 <p align="left">
-<a href="https://github.com/CodeRic28/sudoku_visualizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=CodeRic28&repo=sudoku_visualizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="sudoku_visualizer"></a>
-<a href="https://github.com/CodeRic28/virtual_paint_cv"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodeRic28&repo=virtual_paint_cv&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="virtual_paint"></a>
+<a href="https://github.com/CodeRic28/sudoku_visualizer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodeRic28&repo=sudoku_visualizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/CodeRic28/virtual_paint_cv"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodeRic28&repo=virtual_paint_cv&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/CodeRic28/hidden_trends_in_video_games"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodeRic28&repo=hidden_trends_in_video_games&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/CodeRic28/discord_bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodeRic28&repo=discord_bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 ---
 
