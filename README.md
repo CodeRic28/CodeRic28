@@ -3,6 +3,12 @@
 
 I am a Computer Science major pursuing Master's in Computer Applications with a variety of interests such as Machine learning, Artificial Intelligence, Neuroscience. I enjoy learning in general and reading books on a wide range of genres. 
 
+<!-- Social Media icons -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCKPcYYVXLFwUTi9DDhIqucQ"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 <hr>
 
 ## My Projects
