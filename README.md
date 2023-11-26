@@ -14,7 +14,13 @@ I am a Computer Science major pursuing Master's in Computer Applications with a 
 <hr>
 
 ## My Projects
+
 <p align="left">
+<a href="https://github.com/CodeRic28/gender_voice_recognition"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodeRic28&repo=gender_voice_recognition&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/CodeRic28/stopped_vehicle_detection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodeRic28&repo=stopped_vehicle_detection&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/CodeRic28/books_finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodeRic28&repo=books_finder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+
+
 <a href="https://github.com/CodeRic28/virtual_paint_cv"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodeRic28&repo=virtual_paint_cv&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/CodeRic28/penguin_classifier_fine_tune><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodeRic28&repo=penguin_classifier_fine_tune&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/CodeRic28/SunBase-ML-Challenge><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodeRic28&repo=SunBase-ML-Challenge&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
