@@ -1,7 +1,7 @@
 # <img align="left" alt="Python" width="30px" style="padding-right:10px" src="./resources/robo2.svg"/> Karan Singh
 ``CodeRic (Developer/AI/Computer Vision/ Neuroscience)``
 
-I am pursuing MSc Cognitive Science from Universität Osnabrück focusing on Artificial Intelligence and Neuroscience. My interests in AI include classical Machine Learning, Computer Vision, NLP, and Data Science. I enjoy learning in general and reading books on a wide range of genres. 
+I am pursuing MSc Cognitive Science from Universität Osnabrück, Germany, focusing on Artificial Intelligence and Neuroscience. My interests in AI include classical Machine Learning, Computer Vision, NLP, and Data Science. I enjoy learning in general and reading books on a wide range of genres. 
 
 <!-- Social Media icons -->
 <p align="center">
